@@ -3,9 +3,9 @@
     "name": "Wyatt Bartlett",
     "label": "Student",
     "picture": "https://wyattbartlett.github.io/images/MyFaceSquare.JPG",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "email": "wmmb AT hawaii DOT edu",
+    "phone": "",
+    "website": "https://wyattbartlett.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
@@ -17,24 +17,14 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "wyattbartlett",
+        "url": "http://github.com/wyattbartlett"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "wyattbartlett",
+        "url": "http://linkedin.com/in/wyattbartlett"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
