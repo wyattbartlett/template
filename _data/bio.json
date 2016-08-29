@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Wyatt Bartlett",
+    "name": "Molly Maluhia",
     "label": "Student",
-    "picture": "https://wyattbartlett.github.io/images/MyFaceSquare.JPG",
-    "email": "wmmb@hawaii.edu",
-    "phone": "",
-    "website": "https://wyattbartlett.github.io",
-    "summary": "I am pursuing a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2017.",
+    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://mmaluhia.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -14,35 +14,45 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
-  },
     "profiles": [
       {
         "network": "github",
-        "username": "wyattbartlett",
-        "url": "https://github.com/wyattbartlett"
+        "username": "mmaluhia",
+        "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "wyattbartlett",
-        "url": "https://www.linkedin.com/in/wyattbartlett"
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
+      },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
+      },
+      {
+        "network": "instagram",
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
       }
-    ],
+    ]
+  },
   "interests": [
     {
-      "name": "natural language processing",
+      "name": "internet of things",
+      "keywords": [
+        "Arduino",
+        "TI MSP430"
+      ]
+    },
+    {
+      "name": "data mining",
       "keywords": [
       ]
     },
     {
       "name": "artificial intelligence",
       "keywords": [
-      ]
-    },
-    {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "Raspberry Pi"
       ]
     }
   ],
@@ -55,29 +65,28 @@
         "C++",
         "Java",
         "Javascript",
-        "Python",
-        "SQL"
-        "VBA"
+        "Assembly",
+        "Common Lisp"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Windows",
+        "MacOS",
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "MS SQL Server Management Studio"
+        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2017)",
+      "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2012-09-01",
+      "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -86,16 +95,15 @@
   ],
   "work": [
     {
-      "company": "UH Manoa STAR Technologies Office",
-      "position": "Assistant Website Developer",
+      "company": "UH Manoa Board of Publications",
+      "position": "Web Developer",
       "website": "",
-      "startDate": "2016-05-22",
+      "startDate": "2015-08-01",
       "endDate": "Present",
-      "summary": "Maintain and improve databases for STAR clients.",
+      "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain and update MS SQL Server and MS Access databases",
-        "Improve database structure and design queries for easier manipulation of data"
-        "Troubleshoot and debug Visual Basic modules"
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
