@@ -64,34 +64,34 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "MS SQL Server"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2017)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2012-08-20",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.53",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa STAR Technology Office",
+      "position": "Assistant Web Developer",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2016-05-23",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Maintain and upgrade databases used by STAR clients",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
