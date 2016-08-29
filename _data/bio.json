@@ -14,6 +14,7 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
+  },
     "profiles": [
       {
         "network": "github",
@@ -25,8 +26,7 @@
         "username": "wyattbartlett",
         "url": "https://www.linkedin.com/in/wyattbartlett"
       }
-    ]
-  },
+    ],
   "interests": [
     {
       "name": "natural language processing",
