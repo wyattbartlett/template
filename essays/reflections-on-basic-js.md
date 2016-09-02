@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny left circular floated image" src="https://en.wikipedia.org/wiki/JavaScript#/media/File:Javascript-736400_960_720.png">
+<img class="ui tiny left circular floated image" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png">
 
 After approximately two weeks of learning JavaScript through my ICS 314, Software Engineering, course, I am happy to say that I have learned some things that are new, interesting, and useful, all at the same time.
 
