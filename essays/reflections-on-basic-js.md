@@ -34,7 +34,7 @@ const inc10 = makeInc(10);
 console.log(inc10(2000));
 ```
 
-In the code above, calling the function makeInc actually returns an iterator function that iterates a value by the amount passed to incVal. The functions returned by makeInc(2) and makeInc(10) are stored in the inc2 and inc10 constants. When inc10 is later called with an argument of 2000, the value returned from inc10 is 2010, because the inc10 function increments its passed value by 10.
+In the code above, calling the function makeInc actually returns a function that iterates a value by the amount passed to incVal. The functions returned by makeInc(2) and makeInc(10) are stored in the inc2 and inc10 constants. When inc10 is later called with an argument of 2000, the value returned from inc10 is 2010, because the inc10 function increments its passed value by 10.
 
 Although this example may be simple, I anticipate that the opportunity for creative use of this feature may present itself frequently in this class.
 
