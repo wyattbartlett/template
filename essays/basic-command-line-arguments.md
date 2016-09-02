@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-https://upload.wikimedia.org/wikipedia/commons/6/6f/Octicons-terminal.svg
+<img class="ui tiny left circular floated image" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Octicons-terminal.svg">
 
 Command-line arguments allow you to pass values to a program from the command line, similar to the way in which you would pass values to any function within a program. In the C, C++, and Java programming languages specifically, command-line arguments are passed into the program’s main function if it is defined with the appropriate parameters. Once the arguments are passed, they can be found within the indices of the argv array. In the case of C and C++ argv [0] holds the program’s name, followed by the parsed arguments, while in Java the program’s name is not included in argv.
 The arguments are usually passed in by listing them after the name of the program, for example, make hw3. The argument passed to the make program is “hw3”, which in this specific case tells make to check that all the conditions necessary to create the hw3 file exist and, if they do, to then execute all the instructions necessary to create said file.
