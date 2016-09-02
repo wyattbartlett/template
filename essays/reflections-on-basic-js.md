@@ -10,7 +10,7 @@ labels:
 
 <img class="ui tiny left circular floated image" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png">
 
-After approximately two weeks of learning JavaScript through my ICS 314, Software Engineering, course, I am happy to say that I have learned some things that are new, interesting, and useful, all at the same time.
+After approximately two weeks of learning JavaScript through ICS 314, Software Engineering, I am happy to say that I have learned some things that are new, interesting, and useful, all at the same time.
 
 I have some previous experience with JavaScript as a result of taking ICS 215, Introduction to Scripting, but I was not introduced to ECMAScript 6 recommendations in that course. One such recommendation is replacing var with const and let in declarations for constants and variables, respectively. Constants and variables declared with const and let are also block-scoped, meaning they are only available within the block in which they were declared. I have learned that the block-scoped nature of const and let is preferred to the function-scoped nature of var, because it can be easy to use a variable declared with var without intending to.
 
