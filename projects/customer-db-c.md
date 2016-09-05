@@ -15,7 +15,7 @@ summary: A command-line interface for a customer database written in C for ICS 2
 
 <img class="ui large rounded image" src="../images/customer-db-interface-c.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+I implemented a mock customer database interface in the C programming language for ICS 212 class, Program Structure. The application has no GUI, but is designed to be used through the command-line interface (CLI). 
 
 Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
