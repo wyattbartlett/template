@@ -25,10 +25,6 @@ During the summer of 2015, John Nihi and I conducted research on soil samples to
 
 The Landslide Early Warning System project was sponsored by the State of Hawaii Department of Transportation. The soil samples we analyzed came from areas where landslides might occur along the Pali and Likelike highways. The areas of interest were a natural cut slope and a manmade embankment, respectively.
 
-## Goals
-
-Our task was to construct experimental and theoretical grain size distribution (GSD) curves for our various soil samples, and to compare these with data collected from instruments at the field sites to determine the effect of soil saturation on slope stability.
-
 ### Soil-Water Characteristic Curve
 
 The main goal of our work was to create a more accurate model for predicting slope failure. We did this by using the soil-water characteristic curve (SWCC), which compares soil saturation to soil suction (negative pressure between soil particles). Greater saturation of the soil leads to reduced suction. Less suction generally means less shear strength, implying that a slope is more likely to fail. On the other hand, less saturation generally implies greater shear strength, greater suction and a more stable slope. Local companies currently use traditional soil mechanics in their analyses, neglecting suction and assuming full soil saturation. According to their models, the slopes at the sites of interest should have already failed. We believed that we could provide evidence that considering suction might lead to a more realistic model.
