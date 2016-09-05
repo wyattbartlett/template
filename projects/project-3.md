@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: Landslide Early Warning System
 permalink: projects/cotton
 date: 2014
 labels:
