@@ -13,12 +13,19 @@ labels:
 summary: A command-line interface for a customer database written in C++ for ICS 212, Program Structure.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/customer-db-interface.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+After creating a mock customer database interface in C for ICS 212, Program Structure, I recreated it in C++. The application still has no GUI, but is designed to be used through the command-line interface (CLI) as before. When the application is started a menu is displayed prompting the user to choose one of several options. Options include:
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+1. Add Record
+2. Modify Record
+3. Print Record
+4. Print All Records
+5. Delete Record
+6. Quit
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+It took about a week to translate this application to C++ and add some extra features. I was once again the sole author of this project, and it was written entirely in C++, following C++ conventions. It was interesting to program in an object-oriented style outside of Java. I would like to build more experience in C++ and become more fluent in the language in the future.
+
+Programming this application gave me a deeper understanding of passing by reference, and how easy it is! The experience also introduced me to overloading an operator, which I had experienced previously but never really recognized. I also became aware of preprocessor directives through this project, and how they can be used in combination with make to create different versions of an application, such as a special version for debugging.
  
 Source: <a href="https://github.com/wyattbartlett/customer-database-interface-cpp"><i class="large github icon"></i>Check out my repo on GitHub.</a>
