@@ -10,7 +10,7 @@ labels:
   - g++
   - SCCS
   - Unix
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A command-line interface for a customer database written in C++ for ICS 212, Program Structure.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
