@@ -15,10 +15,17 @@ summary: A command-line interface for a customer database written in C for ICS 2
 
 <img class="ui large rounded image" src="../images/customer-db-interface-c.png">
 
-I implemented a mock customer database interface in the C programming language for ICS 212 class, Program Structure. The application has no GUI, but is designed to be used through the command-line interface (CLI). 
+I created a mock customer database interface in the C programming language for ICS 212, Program Structure. The application has no GUI, but is designed to be used through the command-line interface (CLI). When the application is started a menu is displayed prompting the user to choose one of several options. Options include:
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+1. Add Record
+2. Modify Record
+3. Print Record
+4. Print All Records
+5. Delete Record
+6. Quit
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+Implementation of the application took about a week. I was the sole author of this project, and it was written entirely in C. It was also the first program I have written that makes use of command-line arguments.
+
+Programming this application gave me a deeper understanding of pointers, including pointers to pointers and why they can be useful. The experience also engrained in me the importance of testing/validating user input, and handling unexpected input in an appropriate manner.
  
 Source: <a href="https://github.com/wyattbartlett/customer-database-interface-c"><i class="large github icon"></i>Check out my repo on GitHub.</a>
