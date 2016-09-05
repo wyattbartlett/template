@@ -94,69 +94,59 @@
   ],
   "work": [
     {
-      "company": "UH Manoa STAR Technology Office",
-      "position": "Assistant Web Developer",
-      "website": "",
+      "company": "UH Manoa STAR Technologies Office",
+      "position": "SQL Assistant Programmer",
+      "website": "https://www.star.hawaii.edu",
       "startDate": "2016-05-23",
       "endDate": "Present",
-      "summary": "Maintain and upgrade databases used by STAR clients",
+      "summary": "Maintain and upgrade MS SQL Server and MS Access databases used by STAR clients",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Improve database structure and design queries for easier and faster manipulation of data",
+        "Troubleshoot and debug Visual Basic modules"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UH Manoa Music Department",
+      "position": "Auditorium Attendant",
+      "website": "http://manoa.hawaii.edu/music/",
+      "startDate": "2013-08-19",
+      "endDate": "Present",
+      "summary": "Manage house operations for performances at Mae Zenke Orvis Auditorium",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Operate and maintain sound and light equipment",
+        "Record student concert attendance in Excel",
+        "Sell tickets and record sales"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "UH Manoa Honors Student Organization",
+      "website": "http://manoa.hawaii.edu/undergrad/honors/honors-student-organization-hso/",
+      "position": "Volunteer",
+      "startDate": "2012-08-20",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Volunteered with a group of UH Honors students to assist various community groups",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Raised funds for American Cancer Society through Relay for Life",
+        "Restored native bird habitat on Kāneʻohe Marine Base",
+        "Participated in UHM campus trash clean-up"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Walter and Jeane Lum Scholarship Fund",
+      "date": "Fall 2013",
+      "awarder": "University of Hawaii",
+      "summary": "The purpose of this Fund is to provide scholarships to assist students at the University of Hawai`i at Manoa College of Engineering, who provide leadership in the areas of: student mentorship, academic leadership, student-college outreach leadership, and leadership in research.
+"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "First Place - Landslide Early Warning System",
+      "date": "2015-08-15",
+      "awarder": "Indigenous Knowledge in Engineering (IKE) Student Symposium",
+      "summary": "John Nihi and I gave a winning presentation for the Landslide Early Warning System project.  Please see my Projects page for more details."
     }
   ],
   "references": [
