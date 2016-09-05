@@ -16,13 +16,17 @@ After approximately two weeks of learning JavaScript through ICS 314, Software E
 
 ## JavaScript Features
 
+### 1. Const and Let
+
 I have some previous experience with JavaScript as a result of taking ICS 215, Introduction to Scripting, but I was not introduced to ECMAScript 6 recommendations in that course. One such recommendation is replacing var with const and let in declarations for constants and variables, respectively. This makes it easier to recognize when you're dealing with a constant or a variable, for one thing. For another, constants and variables declared with const and let are block-scoped, meaning they are only available within the block in which they were declared. I have learned that the block-scoped nature of const and let is generally preferred to the function-scoped nature of var, because it can be easy to use a variable declared with var outside of the area in which you intend to use it.
+
+### 2. Returning a Function from a Function
 
 I was also not previously aware of the ability to return a function from another function in JavaScript. It seems that this can allow one to easily create variations of a function. As a simple example, in Java or C it is easy to implement a function that increments a value by a certain amount, but what if you need to increment various values by various amounts?
 
 You could create one function to increment a value by two, one by 3, one by 4, and so on, or you could create a function that took two parameters, the first being a value to increment and the second a value by which to increment. In JavaScript, however, you also have the option of creating one function that acts as a sort of template which creates another function. In the case of incrementing functions, you could create a function that accepts the value by which to increment as an argument and returns a function that increments a value passed to it (the inner function) by the value of the parameter defined in the outer function.
 
-### Sound complicated?
+#### Sound complicated?
 
 For those with at least a little familiarity with JavaScript, this concept is probably better demonstrated with some simple code. So, here is an example as demonstrated by my ICS 314 professor:
 
@@ -47,6 +51,8 @@ Although this example may be simple, I anticipate that the opportunity for creat
 ## Athletic Software Engineering
 
 This fall 2016 software engineering course in which I am enrolled is taught by Philip Johnson, professor of Information and Computer Sciences at the University of Hawaiʻi. Professor Johnson has structured the course around a style of development called athletic software engineering, of which he is the creator.
+
+### Workout of the Day
 
 One of the central features of Professor Johnsons’ pedagogy is the Workout of the Day, or WOD (pronounced like wad), which takes the form of an in-class, timed, coding exercise. These in-class exercises are supplemented by practice WODs which are to be done at home beforehand. I think that these opportunities to practice similar problems under time constraints are absolutely essential preparation for the actual performance. Just as with musical or athletic feats, it is the practice of basic and advanced skills time and time again that allows one to perform as impeccably as possible under pressure.
 
