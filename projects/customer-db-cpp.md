@@ -13,7 +13,7 @@ labels:
 summary: A command-line interface for a customer database written in C++ for ICS 212, Program Structure.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/customer-db-interface.png">
+<img class="ui medium right floated rounded image" src="../images/customer-db-interface-c.png">
 
 After creating a mock customer database interface in C for ICS 212, Program Structure, I recreated it in C++. The application still has no GUI, but is designed to be used through the command-line interface (CLI) as before. When the application is started a menu is displayed prompting the user to choose one of several options. Options include:
 
