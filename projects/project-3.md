@@ -4,7 +4,7 @@ type: project
 image: images/pali-square.jpg
 title: Landslide Early Warning System
 permalink: projects/cotton
-date: 2014
+date: 2015
 labels:
   - Geotechnical Engineering
   - Laser Diffraction
@@ -14,7 +14,7 @@ summary: Research for predicting landslides based on soil saturation
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+John Nihi and I conducted research on soil samples to predict how the stability of the slopes from which they were drawn would be affected by saturation during rainfall events. We won a first place prize at the [2015 Indigenous Knowledge in Engineering (IKE) Symposium](http://manoa.hawaii.edu/kaunana/student-engineers-participate-in-native-hawaiian-stem-symposium/).
 
 To give you a flavor of the game, here is an excerpt from one run:
 
