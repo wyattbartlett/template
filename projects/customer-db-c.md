@@ -26,6 +26,6 @@ I created a mock customer database interface in the C programming language for I
 
 Implementation of the application took about a week. I was the sole author of this project, and it was written entirely in C. It was also the first program I have written that makes use of command-line arguments.
 
-Programming this application gave me a deeper understanding of pointers, including pointers to pointers and why they can be useful. The experience also engrained in me the importance of testing/validating user input, and handling unexpected input in an appropriate manner.
+Programming this application gave me a deeper understanding of pointers, including pointers to pointers and why they can be useful. The experience also engrained in me the importance of testing/validating user input, and handling unexpected input in an appropriate manner. This project, and having Ravi Narayan as a teacher, made me love the C programming language.
  
 Source: <a href="https://github.com/wyattbartlett/customer-database-interface-c"><i class="large github icon"></i>Check out my repo on GitHub.</a>
