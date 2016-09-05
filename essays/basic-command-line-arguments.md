@@ -22,12 +22,12 @@ Generally, command-line arguments are useful if the chances are good that a user
 
 The ability to enter command-line arguments often gives the user a little more flexibility in terms of what they want to do with the program. These arguments can allow you to set initial values within a program that differ from the default settings, enable debugging features, or specify certain external files to access. Allowing command-line arguments to be passed can also make it easier for your program to be invoked by other programs. This could be useful in the situation where your program is part of a larger system of programs that work together cohesively, or in the case that your program acts as an extension for an application.
 
-##Optional or Required?
+## Are Command-Line Arguments Necessary?
 
-Depending on how the program is designed, command-line arguments can be used to provide optional functionality, or they can be required for the program to run as intended. I recently made use of two programs for an assignment in ICS 321, Data Storage and Retrieval, one in which command-line arguments were optional, and the other in which they were mandatory. 
+Depending on how the program is designed, command-line arguments can be used to provide optional functionality, or they can be required for the program to run as intended. I recently made use of two programs for an assignment in ICS 321, Data Storage and Retrieval, one in which command-line arguments were optional, and the other in which they were required. 
 
 The first program was called AutoRun, and by default (without command-line arguments) it performed a sequence of hard-coded queries to find matching records in a text file that acted as a database (using comma-separated values). The name of a text file passed as a single optional command-line argument allowed a user to enter a custom sequence of queries to perform, as long as they were specified in the appropriate format within the text file.
 
 The second program was called FileGenerator, and it was designed to generate text file databases of the kind previously mentioned. If it was run without any arguments it would print a message detailing the proper usage of the program, which was to enter the program name followed by command-line arguments specifying the size of file to generate and the name that this file should be given. Upon entering the appropriate arguments the program would generate a text file with the specified name and size.
 
-As you can see, command-line arguments can provide a number of possible benefits. In the end, their usefulness is only limited by your imagination.
+As you can see, command-line arguments can provide a number of possible benefits. In the end, if you decide to incoporate them into your program, their usefulness is only limited by your imagination.
