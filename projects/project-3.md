@@ -2,12 +2,13 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
+title: Landslide Early Warning System
 permalink: projects/cotton
 date: 2014
 labels:
-  - Lisp
-  - GitHub
+  - Geotechnical Engineering
+  - Laser Diffraction
+  - Sieve/Hydrometer
 summary: A text adventure game I developed for ICS 313.
 ---
 
