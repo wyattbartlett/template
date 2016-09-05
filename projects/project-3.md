@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/pali-square.jpg
 title: Landslide Early Warning System
-permalink: projects/cotton
+permalink: projects/landslide-early-warning-system
 date: 2015
 labels:
   - Geotechnical Engineering
