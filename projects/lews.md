@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Pali Square 300px.jpg
+image: images/pali-square.jpg
 title: Landslide Early Warning System
 permalink: projects/landslide-early-warning-system
 date: Summer 2015
