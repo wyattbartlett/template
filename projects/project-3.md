@@ -9,7 +9,7 @@ labels:
   - Geotechnical Engineering
   - Laser Diffraction
   - Sieve/Hydrometer
-summary: A text adventure game I developed for ICS 313.
+summary: Research for predicting landslides based on soil saturation
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
