@@ -12,9 +12,9 @@ labels:
 
 ## What are Command-Line Arguments?
 
-Command-line arguments are values that you pass to a program from the command line. They are used in the same way that arguments passed to any function within a program are used. In the C, C++, and Java programming languages specifically, command-line arguments are passed into the program’s main function if it is defined with the appropriate parameters. Once the arguments are passed, they can be found within the indices of the argv array. In the case of C and C++ argv [0] holds the program’s name, followed by the parsed arguments, while in Java the program’s name is not included in argv.
+Command-line arguments are values that you pass to a program from the command line. They are used in the same way that arguments passed to any function within a program are used. In the C, C++, and Java programming languages specifically, command-line arguments are passed into the program’s main function if it is defined with the appropriate parameters. Once the arguments are passed, they can be found within the indices of an array that is usually called argv by convention. In the case of C and C++, argv [0] holds the program’s name and the following indices hold the parsed arguments, however, in Java the program’s name is not included in argv.
 
-The arguments are usually passed in by listing them after the name of the program, for example, make hw3. The argument passed to the make program is “hw3”, which in this specific case tells make to check that all the conditions necessary to create the hw3 file exist and, if they do, to then execute all the instructions necessary to create said file.
+The arguments are usually passed in by listing them after the name of the program, for example, make hw3. The argument passed to the make program is “hw3”, which in this specific case tells the make program to check that all the conditions necessary to create the hw3 file exist and, if they do, to then execute all the instructions necessary to create said file.
 
 ## So, What are They Good For?
 
