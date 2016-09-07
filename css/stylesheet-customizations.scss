@@ -12,6 +12,10 @@ body {
   color: white;
 }
 
+h1 {
+  color: white;
+}
+
 // Customize the menubar color
 .ui.menu {
   background: snow;
@@ -22,3 +26,7 @@ body {
   color: #4C39FE;
 }
 
+.no-bottom {
+  margin-bottom: 0px !important;
+  padding-bottom: 0px !important;
+}
