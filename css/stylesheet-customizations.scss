@@ -36,7 +36,15 @@ div.ui.fluid.centered.card {
   background-color: #0b0b17;
 }
 
-div.center.aligned.content div, span.header, div.left.aligned.description {
+div.center.aligned.content div {
+  color: white;
+}
+
+div.left.aligned.description {
+  color: white;
+}
+
+div.description {
   color: white;
 }
 
