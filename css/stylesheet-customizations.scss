@@ -7,7 +7,7 @@
 
 // Customize the background color
 body {
-  background-image: url('/images/transparent-square-tiles.png');
+  background-image: url('/images/seigaha.png');
   background-color: #444349;
   color: white;
 }
@@ -30,6 +30,10 @@ a {
 
 .ui.text.container {
   margin-bottom: 20px;
+}
+
+div.ui.fluid.centered.card {
+    background-color: #0b0b17
 }
 
 // Customize the menubar color
