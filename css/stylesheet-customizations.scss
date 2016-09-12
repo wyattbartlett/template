@@ -7,8 +7,8 @@
 
 // Customize the background color
 body {
-  background-image: url('/images/snow_@2X.png');
-  background-color: white;
+  //background-image: url('/images/snow_@2X.png');
+  background-color: snow;
   color: black;
 }
 
@@ -25,7 +25,7 @@ h3.ui.left.aligned.header.no-bottom {
 }
 
 a {
-  color: darken(#1E70BF, 20%);
+  color: darken(#1E70BF, 10%);
 }
 
 .ui.text.container {
@@ -36,7 +36,7 @@ div.ui.fluid.centered.card {
     background-color: #0b0b17;
 }
 
-div.center.aligned.content {
+.center.aligned.content {
 	color: white;
 }
 
