@@ -25,7 +25,7 @@ h3.ui.left.aligned.header.no-bottom {
 }
 
 a {
-  color: lighten(#1E70BF, 30%);
+  color: #1E70BF;
 }
 
 .ui.text.container {
@@ -33,7 +33,8 @@ a {
 }
 
 div.ui.fluid.centered.card {
-    background-color: #0b0b17
+    background-color: #0b0b17;
+	color: white;
 }
 
 // Customize the menubar color
@@ -43,7 +44,7 @@ div.ui.fluid.centered.card {
 
 // Customize the home page icon colors
 .icon-color {
-  color: #1E70BF;
+  color: lighten(#1E70BF, 30%);
 }
 
 .no-bottom {
