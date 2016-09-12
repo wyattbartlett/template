@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reflections on Basic JavaScript
+title: First Steps along my JavaScript Journey
 date: 2016-09-01
 labels:
   - Software Engineering
