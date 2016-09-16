@@ -21,7 +21,7 @@ Although git came from humble beginnings, starting out as the custom version con
 
 ## Super Powers
 
-Within large, complex projects, developers can have an overwhelming number of functional details to manage. In such situations, the piece-of-mind that is provided by configuration management software, such as git, is invaluable. The ability to track your changes and branches, and easily revert to a previous version of your software, gives you the flexibility and security to experiment without fear. Additionally, git and GitHub make working in teams a breeze! No more worries about the file you need being locked down by someone else. You always have a full copy of the repository on your local machine.
+Within large, complex projects, developers can have an overwhelming number of functional details to manage. In such situations, the peace-of-mind that is provided by configuration management software, such as git, is invaluable. The ability to track your changes and branches, and easily revert to a previous version of your software, gives you the flexibility and security to experiment without fear. Additionally, git and GitHub make working in teams a breeze! No more worries about the file you need being locked down by someone else. You always have a full copy of the repository on your local machine.
 
 GitHub is also useful for small projects. Having a permanent, off-site record of your development history can be extremely useful. It has been a joy to use GitHub to manage my personal professional portfolio, because I am never worried about irreparably screwing things up or losing all of my files in the event of a computer meltdown.
 
