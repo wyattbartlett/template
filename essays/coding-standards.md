@@ -41,7 +41,7 @@ If you already have an IntelliJ project open, you can find these settings under 
 
 <img src="../images/IntelliJ_ProjectDefaultSettings_InProject.png">
 
-### Note: I am running IntelliJ on a PC with Windows. I am not sure if the steps are exactly the same on a Mac.
+#### Note: I am running IntelliJ on a PC with Windows. I am not sure if the steps are exactly the same on a Mac.
 
 ## Becoming Friends with your Coding Standard
 
