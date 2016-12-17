@@ -14,6 +14,8 @@ summary: A web app to connect University of Hawaii (Manoa) students with the uni
 
 <img class="ui huge image" src="../images/home-landing-M3.png">
 
+<br>
+
 ---
 
 <br>
@@ -50,7 +52,9 @@ The design of the club profile page, which displays the detailed club descriptio
 
 ### User Study
 
-At the end of our fall 2016 semester, we hand-picked a small group of students to test our app and provide us with feedback for improvement. Based on the feedback we received we were able to immediately improve visual elements of our app. Our test users also suggested new features that they wanted to see in our app. This initial review experience was validating and encouraging and will help to guide our development in the future.
+At the end of our fall 2016 semester, we hand-picked a small group of students to test our app and provide us with feedback for improvement. Based on the feedback we received we were able to immediately improve visual elements of our app. Our test users also requested new features that we had not previously recognized a need for. This initial review experience was validating and encouraging and will help to guide our development in the future.
+
+<br>
 
 ---
 
