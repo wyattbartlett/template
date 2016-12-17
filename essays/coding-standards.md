@@ -46,3 +46,5 @@ If you already have an IntelliJ project open, you can find these settings under 
 ## Becoming Friends with your Coding Standard
 
 Now that you’ve set everything up for ease of use, it will be much easier to stick to a coding standard. Having the right tools makes maintaining the standard painless, and allows you to appreciate the beauty that a consistent style brings to your code. I hope that these guidelines lead you to a happier and healthier relationship with your coding standards and a fuller appreciation of well written code!
+
+<br>

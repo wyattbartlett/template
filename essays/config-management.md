@@ -28,3 +28,5 @@ GitHub is also useful for small projects. Having a permanent, off-site record of
 ## With great power…
 
 My appreciation for configuration management comes partly from personal experience. I have lost pieces of software through accidental overwrites. I have also attempted to add functionality to a working program, been unable to make it work properly, saved, closed, and found that I could not revert to a previous working version later on. Thankfully, configuration management systems save you (and me) from having to deal with these kinds of issues. So, next time you need to tackle a project remember that with git and GitHub you have a super hero of organization and productivity on your side. Use those powers wisely!
+
+<br>

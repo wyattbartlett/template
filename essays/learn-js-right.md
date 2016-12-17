@@ -56,3 +56,5 @@ Knowledge alone isn't enough to make a great software engineer, however. Practic
 One of the central features of Professor Johnsons’ course is the Workout of the Day, or WOD (pronounced like wad), which takes the form of an in-class, timed, coding exercise. These in-class exercises are supplemented by practice WODs which are to be done at home beforehand. He had us do the practice problems under time constraints, which turned out to be absolutely essential preparation for the actual performance.
 
 I believe that this kind of training, if used consistently, can develop your ability to solve problems on your feet, and perhaps even more importantly, build a habit of intense focus when solving problems under pressure. Just as with musical or athletic feats, it is the rehearsal of skills time and time again that allows one to perform as impeccably as possible on stage or in the arena.
+
+<br>
