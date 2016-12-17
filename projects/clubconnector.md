@@ -12,6 +12,8 @@ labels:
 summary: A web app to connect University of Hawaii (Manoa) students with the university's 200+ clubs
 ---
 
+<br>
+
 <img class="ui huge image" src="../images/home-landing-M3.png">
 
 <br>
@@ -24,9 +26,11 @@ summary: A web app to connect University of Hawaii (Manoa) students with the uni
 
  During the fall of 2016, I and a team of fellow UH Manoa software engineering students built a modern web app using the Meteor framework. We called it Club Connector, because its purpose was to help UH Manoa students easily sift through UH's 200+ clubs to find the ones that fit them best.
 
- <br>
+<br>
 
   <img class="ui huge image" src="../images/clubconnector-browse-M3.png">
+
+<br>
 
 The core features of the app reside in the Browse page, where students can view an array of club results in response to a query by keyword or by type of club. It also allows students to favorite clubs that they are interested in, so that they can remember them later on.
 
@@ -64,5 +68,6 @@ At the end of our fall 2016 semester, we hand-picked a small group of students t
 
 Want to learn more? Check out project homepage [here](https://clubconnector.github.io/).
 
+<br>
 
 
