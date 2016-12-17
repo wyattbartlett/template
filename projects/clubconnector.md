@@ -64,6 +64,16 @@ At the end of our fall 2016 semester, we hand-picked a small group of students t
 
 <br>
 
+### Lessons Learned
+
+The experience of building this app was a great lesson in the use of web development/design frameworks. But the most important things I learned were related to teamwork, and specifically, developing software as a team. This was not my first experience of building software in a team environment, but it was my first time working in a team using version control and a codified system of project management. I know that these tools will serve me well in the future, in both my professional and personal work, and I am glad to have gotten to know them.
+
+<br>
+
+---
+
+<br>
+
 ### More Info
 
 Want to learn more? Check out project homepage [here](https://clubconnector.github.io/).
