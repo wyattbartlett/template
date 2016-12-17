@@ -19,6 +19,8 @@ summary: A command-line interface for a customer database written in C for ICS 2
 
 <br>
 
+## Overview
+
 I created a mock customer database interface in the C programming language for ICS 212, Program Structure. The application has no GUI, but is designed to be used through the command-line interface (CLI). When the application is started a menu is displayed prompting the user to choose one of several options. Options include:
 
 1. Add Record
@@ -27,6 +29,8 @@ I created a mock customer database interface in the C programming language for I
 4. Print All Records
 5. Delete Record
 6. Quit
+
+<br>
 
 Implementation of the application took about a week. I was the sole author of this project, and it was written entirely in C. It was also the first program I have written that makes use of command-line arguments.
 
