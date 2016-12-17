@@ -15,11 +15,11 @@ summary: A command-line interface for a customer database written in C++ for ICS
 
 <br>
 
-<img class="ui medium right floated rounded image" src="../images/customer-db-interface-c.png">
+<img class="ui large rounded image" src="../images/customer-db-interface-c.png">
 
 <br>
 
-After creating a mock customer database interface in C for ICS 212, Program Structure, I recreated it in C++. The application still has no GUI, but is designed to be used through the command-line interface (CLI) as before. When the application is started a menu is displayed prompting the user to choose one of several options. Options include:
+After creating a mock customer database interface in C for ICS 212, Program Structure, I recreated it in C++. The application has no GUI, but is designed to be used through the command-line interface (CLI), just like the C version. When the application is started, a menu is displayed prompting the user to choose one of several options. Options include:
 
 1. Add Record
 2. Modify Record
@@ -27,6 +27,8 @@ After creating a mock customer database interface in C for ICS 212, Program Stru
 4. Print All Records
 5. Delete Record
 6. Quit
+
+<br>
 
 It took about a week to translate this application to C++ and add some extra features. I was once again the sole author of this project, and it was written entirely in C++, following C++ conventions. It was interesting to program in an object-oriented style outside of Java. I would like to build more experience in C++ and become more fluent in the language in the future.
 
