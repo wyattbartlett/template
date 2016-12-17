@@ -12,13 +12,17 @@ labels:
 summary: A web app to connect University of Hawaii (Manoa) students with the university's 200+ clubs
 ---
 
+<img class="ui huge image" src="../images/home-landing-M3.png">
+
 ## Overview
 
-During the fall of 2016, John Nihi and I conducted research on soil samples to predict how the stability of the slopes from which they were drawn would be affected by saturation during rainfall events. We won a first place prize at the [2015 Indigenous Knowledge in Engineering (IKE) Symposium](http://manoa.hawaii.edu/kaunana/student-engineers-participate-in-native-hawaiian-stem-symposium/).
-
-  <img class="ui large image" src="../images/home-landing-M3.png">
+During the fall of 2016, I built a modern web app with a team of fellow UH Manoa software engineering students. We called it Club Connector, because its purpose was to help UH Manoa students easily sift through UH's 200+ clubs to find the ones that fit them best.
 
 <br>
+
+  <img class="ui huge image" src="../images/clubconnector-browse-M3.png">
+
+<br><br>
 
 The Landslide Early Warning System project was sponsored by the State of Hawaii Department of Transportation. The soil samples we analyzed came from areas where landslides might occur along the Pali and Likelike highways. The areas of interest were a natural cut slope and a manmade embankment, respectively.
 
@@ -28,7 +32,7 @@ The main goal of our work was to create a more accurate model for predicting slo
 
 <br>
 
-  <img class="ui large image" src="../images/club-profile-M3.png">
+  <img class="ui huge image" src="../images/club-profile-M3.png">
 
 <br><br>
 
@@ -48,7 +52,7 @@ Through our analysis, we concluded that use of the Horiba LA-950V2 approximates 
 
 ### More Info
 
-You can view our presentation slides [on Slideshare](http://www.slideshare.net/wmmb/landslide-early-warning-system-john-nihi-wyatt-bartlett).
+Find out more about our project [here](https://clubconnector.github.io/).
 
 
 
