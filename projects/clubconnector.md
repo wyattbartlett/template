@@ -16,7 +16,7 @@ summary: A web app to connect University of Hawaii (Manoa) students with the uni
 
 During the fall of 2016, John Nihi and I conducted research on soil samples to predict how the stability of the slopes from which they were drawn would be affected by saturation during rainfall events. We won a first place prize at the [2015 Indigenous Knowledge in Engineering (IKE) Symposium](http://manoa.hawaii.edu/kaunana/student-engineers-participate-in-native-hawaiian-stem-symposium/).
 
-  <img class="ui medium image" src="../images/home-landing-M3.png">
+  <img class="ui large image" src="../images/home-landing-M3.png">
 
 <br>
 
@@ -28,7 +28,7 @@ The main goal of our work was to create a more accurate model for predicting slo
 
 <br>
 
-  <img class="ui medium image" src="../images/club-profile-M3.png">
+  <img class="ui large image" src="../images/club-profile-M3.png">
 
 <br><br>
 
