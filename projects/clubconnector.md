@@ -24,7 +24,7 @@ summary: A web app to connect University of Hawaii (Manoa) students with the uni
 
   <img class="ui huge image" src="../images/clubconnector-browse-M3.png">
 
-<br>
+
 
 The core features of the app reside in the Browse page, where students can view an array of club results in response to a query by keyword or by type of club. It also allows students to favorite clubs that they are interested in, so that they can remember them later on.
 
