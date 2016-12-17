@@ -6,10 +6,10 @@
     "email": "wmmb AT hawaii DOT edu",
     "phone": "",
     "website": "https://wyattbartlett.github.io",
-    "summary": "Aloha, I am a student pursuing a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2017, after which I will pursue a career in software engineering.",
+    "summary": "Aloha, I am a student pursuing a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall 2017, after which I will pursue a career in software engineering. After developing professional competence in this field, it is my long-term goal to develop software that makes it easier for students to visualize and learn topics in mathematics and science.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -29,25 +29,30 @@
   },
   "interests": [
     {
-      "name": "natural language processing",
+      "name": "Natural Language Processing",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     },
     {
-      "name": "web development",
+      "name": "Web Development",
       "keywords": [
       ]
     },
     {
-      "name": "internet of things",
+      "name": "Education",
       "keywords": [
-        "Arduino",
-        "Raspberry Pi"
+      ]
+    },
+    {
+      "name": "Hawaiian Language",
+      "keywords": [
+        "",
+        ""
       ]
     },
   ],
@@ -60,8 +65,11 @@
         "C++",
         "Java",
         "JavaScript",
-        "SQL",
+        "Meteor",
+        "HTML",
+        "Semantic UI",
         "Python",
+        "SQL",
         "VBA"
       ]
     },
